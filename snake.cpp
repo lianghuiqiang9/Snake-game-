@@ -4,7 +4,7 @@
 #include<conio.h>
 #define Width 52//4的倍数
 #define High 18
-#define Snakesize 1999
+#define Snakesize 19992
 
 int changeflag = 0, sorce = 0, key = 77;
 
